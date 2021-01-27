@@ -1,0 +1,21 @@
+h1 {
+    color: rgba(0, 0, 255, 0.5)
+}
+h2 {
+    color: #ff0000;
+}
+h3 {
+    color: rgb(0, rgb(0, 128, 0), 0)
+}
+h4 {
+    color: orange;
+}
+h5 {
+    color: hotpink;
+}
+h6 {
+    color: purple;
+}
+p {
+    color: aqua;
+}
